@@ -1,0 +1,12 @@
+E:\Web\FirstApp\FirstApp\bin\Debug\FirstApp.exe.config
+E:\Web\FirstApp\FirstApp\bin\Debug\FirstApp.exe
+E:\Web\FirstApp\FirstApp\bin\Debug\FirstApp.pdb
+E:\Web\FirstApp\FirstApp\obj\Debug\MyContact.csproj.AssemblyReference.cache
+E:\Web\FirstApp\FirstApp\obj\Debug\FirstApp.Form1.resources
+E:\Web\FirstApp\FirstApp\obj\Debug\FirstApp.Properties.Resources.resources
+E:\Web\FirstApp\FirstApp\obj\Debug\MyContact.csproj.GenerateResource.cache
+E:\Web\FirstApp\FirstApp\obj\Debug\MyContact.csproj.CoreCompileInputs.cache
+E:\Web\FirstApp\FirstApp\obj\Debug\FirstApp.exe
+E:\Web\FirstApp\FirstApp\obj\Debug\FirstApp.pdb
+E:\Web\FirstApp\FirstApp\obj\Debug\FirstApp.AddOrEditContact.resources
+E:\Web\FirstApp\FirstApp\obj\Debug\MyContact.csproj.SuggestedBindingRedirects.cache
